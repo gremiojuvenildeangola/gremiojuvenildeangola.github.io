@@ -26,6 +26,10 @@ figcaption{
 	border-width: thin;
 	border-color: rgba(193, 0, 0, 0.9);
 }
+.bolsas{
+	font-size: 12px;
+	text-align: left;
+}
 .novo_menu{
 	padding-top: 15px;
 	padding-bottom: 15px;
