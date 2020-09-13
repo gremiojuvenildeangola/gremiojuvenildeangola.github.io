@@ -16,6 +16,16 @@ header{
 figcaption{
 	color: white;
 }
+.hora_estat{
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-size: 14px;
+}
+.foto-estat{
+	border-radius: 10px;
+	width: 70%;
+	height: 55%;
+}
 .fig_leg:hover{
 	text-decoration-style: solid;
 	text-decoration-color: rgba(193, 0, 0, 0.9);
